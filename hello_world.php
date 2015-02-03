@@ -1,4 +1,6 @@
 <?php
-	echo "Hello World!!";
+    echo "Hello World!";
+    echo "\n";
+    echo "こんにちは世界。";
 ?>
 
